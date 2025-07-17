@@ -1,0 +1,26 @@
+[
+    {
+        "id": "R-1",
+        "name": "Sala Doctor 1",
+        "capacity": 4,
+        "location": "Planta 1"
+    },
+    {
+        "id": "R-2",
+        "name": "Sala Doctor 2",
+        "capacity": 3,
+        "location": "Planta 2"
+    },
+    {
+        "id": "R-3",
+        "name": "Sala Doctor 3",
+        "capacity": 5,
+        "location": "Planta 1"
+    },
+    {
+        "id": "R-4",
+        "name": "Sala Doctor 4",
+        "capacity": 4,
+        "location": "Planta 1"
+    }
+]
